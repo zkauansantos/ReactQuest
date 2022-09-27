@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <Paragraph color='blue'/>
-    <Button label="Clique Aqui"/>
+    <Button label="Clique aqui para ver a label pelo alert"/>
     </>
   );
 }
